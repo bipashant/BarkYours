@@ -2,34 +2,34 @@
 var featuredCategories = [
     {
         "title": "Clothing Accessories",
-        "image": "https://www.sportslocater.com/Images/grid_icon.png",
-        "url": "https://barkyours.sharetribe.com/?category=clothing-and-accessories"
-    },
-    {
-        "title": "Clothing Accessories",
         "image": "https://static-blog.fabfitfun.com/magazine/wp-content/uploads/2017/08/25175621/Screen-Shot-2017-08-25-at-5.55.40-PM.jpg",
         "url": "https://barkyours.sharetribe.com/?category=clothing-and-accessories"
     },
     {
-        "title": "Clothing Accessories",
+        "title": "Jwelry",
         "image": "https://static-blog.fabfitfun.com/magazine/wp-content/uploads/2017/08/25175621/Screen-Shot-2017-08-25-at-5.55.40-PM.jpg",
-        "url": "https://barkyours.sharetribe.com/?category=clothing-and-accessories"
+        "url": "https://barkyours.sharetribe.com/?category=jwelry"
+    },
+    {
+        "title": "Toys and Entertainment",
+        "image": "https://static-blog.fabfitfun.com/magazine/wp-content/uploads/2017/08/25175621/Screen-Shot-2017-08-25-at-5.55.40-PM.jpg",
+        "url": "https://barkyours.sharetribe.com/?category=toys-and-entertainment"
     }
 ];
 var itemsOfWeek = [
     {
-        "title": "Tshirt",
-        "image": "https://static-blog.fabfitfun.com/magazine/wp-content/uploads/2017/08/25175621/Screen-Shot-2017-08-25-at-5.55.40-PM.jpg",
-        "url": "https://barkyours.sharetribe.com/?category=clothing-and-accessories",
-        "price": "$123.45",
+        "title": "This is very long listing title",
+        "image": "https://user-assets.sharetribe.com/images/listing_images/images/1451248/big/discodog_03.gif",
+        "url": "https://barkyours.sharetribe.com/en/listings/550616",
+        "price": "$10.00",
         "seller_name": "Tammi Shapiro",
         "seller_profile_url": "https://barkyours.sharetribe.com/en/tammis"
     },
     {
-        "title": "Tshirt",
-        "image": "https://static-blog.fabfitfun.com/magazine/wp-content/uploads/2017/08/25175621/Screen-Shot-2017-08-25-at-5.55.40-PM.jpg",
-        "url": "https://barkyours.sharetribe.com/?category=clothing-and-accessories",
-        "price": "$123.45",
+        "title": "This is very long listing title also for mobile.",
+        "image": "https://user-assets.sharetribe.com/images/listing_images/images/1451259/big/petfirstaid.jpg",
+        "url": "https://barkyours.sharetribe.com/en/listings/550189",
+        "price": "$1,999.99",
         "seller_name": "Tammi Shapiro",
         "seller_profile_url": "https://barkyours.sharetribe.com/en/tammis"
     },
