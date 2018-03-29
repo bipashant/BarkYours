@@ -36,10 +36,7 @@ var itemsOfWeek = [
     {
         "title": "View all Listings",
         "image": "https://bytebucket.org/bipashant/barkyours/raw/1df09ff6604980ea81e51b59cb1f6c7650da35b7/view-all.jpg",
-        "url": "https://barkyours.sharetribe.com/?view=grid",
-        "price": "$123.45",
-        "seller_name": "Tammi Shapiro",
-        "seller_profile_url": "https://barkyours.sharetribe.com/en/tammis"
+        "url": "https://barkyours.sharetribe.com/?view=grid"
     }
 ];
 
