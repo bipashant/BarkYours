@@ -68,5 +68,5 @@ var questionAnswerForShopper = [
     {
         "qns": 'Next Question goes here 2',
         "ans": 'Next Answer goes here 2'
-    }
+    } 
 ];
